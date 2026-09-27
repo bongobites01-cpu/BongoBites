@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState } from "react";
 import Image from "next/image";
 import { fullmenu, menuData } from "../Hellper";
@@ -9,9 +10,26 @@ import Button from "../common/Button";
 
 function FullMenu() {
   const allItems = fullmenu();
+
   const itemsPerPage = 12;
+
   const [currentPage, setCurrentPage] = useState(1);
-  const totalPages = Math.ceil(allItems.length / itemsPerPage) || 1;
+  const [search, setSearch] = useState("");
+
+  const searchItems = [];
+
+  for (let i = 0; i < allItems.length; i++) {
+    const item = allItems[i];
+
+    if (
+      item.name.toLowerCase().includes(search.toLowerCase()) ||
+      item.category.toLowerCase().includes(search.toLowerCase())
+    ) {
+      searchItems.push(item);
+    }
+  }
+
+  const totalPages = Math.ceil(searchItems.length / itemsPerPage) || 1;
 
   const handleNext = () => {
     if (currentPage < totalPages) {
@@ -25,7 +43,7 @@ function FullMenu() {
     }
   };
 
-  const currentItems = allItems.slice(
+  const currentItems = searchItems.slice(
     (currentPage - 1) * itemsPerPage,
     currentPage * itemsPerPage,
   );
@@ -47,6 +65,17 @@ function FullMenu() {
             <Para
               para="Discover our most loved dishes crafted with fresh ingredients and authentic flavours"
               className="text-gray-600 font-inter mt-2 md:text-base text-xs leading-[144%]"
+            />
+          </div>
+          <div>
+            <input
+              className="border-2 border-amber-400  rounded-2xl px-5 py-2"
+              type="search"
+              name=""
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              id=""
+              placeholder="🔍 search"
             />
           </div>
 
@@ -100,10 +129,11 @@ function FullMenu() {
           <div className="flex items-center gap-2 mt-8">
             <Button
               onClick={handlePrev}
-              className={`w-8 h-8 flex items-center justify-center rounded text-sm transition-all ${currentPage === 1
-                ? "bg-gray-300 text-gray-500 cursor-not-allowed opacity-50 pointer-events-none"
-                : "bg-[#FAA93E] text-white hover:opacity-80"
-                }`}
+              className={`w-8 h-8 flex items-center justify-center rounded text-sm transition-all ${
+                currentPage === 1
+                  ? "bg-gray-300 text-gray-500 cursor-not-allowed opacity-50 pointer-events-none"
+                  : "bg-[#FAA93E] text-white hover:opacity-80"
+              }`}
               btn={
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -125,10 +155,11 @@ function FullMenu() {
             </div>
             <Button
               onClick={handleNext}
-              className={`w-8 h-8 flex items-center justify-center rounded text-sm transition-all ${currentPage === totalPages
-                ? "border border-gray-300 text-gray-400 bg-gray-100 cursor-not-allowed pointer-events-none"
-                : "border border-[#FAA93E] text-[#FAA93E] bg-white hover:bg-[#FAA93E] hover:text-white"
-                }`}
+              className={`w-8 h-8 flex items-center justify-center rounded text-sm transition-all ${
+                currentPage === totalPages
+                  ? "border border-gray-300 text-gray-400 bg-gray-100 cursor-not-allowed pointer-events-none"
+                  : "border border-[#FAA93E] text-[#FAA93E] bg-white hover:bg-[#FAA93E] hover:text-white"
+              }`}
               btn={
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

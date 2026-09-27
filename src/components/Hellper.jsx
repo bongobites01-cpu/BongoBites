@@ -304,6 +304,7 @@ export const socialLinks = [
 export const fullmenu = () => [
   {
     id: 1,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Steamed Rice (250g)",
     price: "₹ 69.00",
@@ -312,6 +313,7 @@ export const fullmenu = () => [
   },
   {
     id: 2,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Dal (250 ml)",
     price: "₹ 79.00",
@@ -320,6 +322,7 @@ export const fullmenu = () => [
   },
   {
     id: 3,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Cholar Dal (250 ml)",
     price: "₹ 99.00",
@@ -328,6 +331,7 @@ export const fullmenu = () => [
   },
   {
     id: 4,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Aloo Bhaja (120 g)",
     price: "₹ 79.00",
@@ -336,6 +340,7 @@ export const fullmenu = () => [
   },
   {
     id: 5,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Begun Bhaja (120 g)",
     price: "₹ 89.00",
@@ -344,6 +349,7 @@ export const fullmenu = () => [
   },
   {
     id: 6,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Jhuri Aloo Bhaja (120 g)",
     price: "₹ 89.00",
@@ -352,6 +358,7 @@ export const fullmenu = () => [
   },
   {
     id: 7,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Aloo Posto (250 g)",
     price: "₹ 199.00",
@@ -360,6 +367,7 @@ export const fullmenu = () => [
   },
   {
     id: 8,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Aloo Phulkopi Dalna (250 g)",
     price: "₹ 119.00",
@@ -368,6 +376,7 @@ export const fullmenu = () => [
   },
   {
     id: 9,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Dhokar Dalna (250 g)",
     price: "₹ 139.00",
@@ -376,6 +385,7 @@ export const fullmenu = () => [
   },
   {
     id: 10,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Shukto (250 g)",
     price: "₹ 149.00",
@@ -384,6 +394,7 @@ export const fullmenu = () => [
   },
   {
     id: 11,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mochar Ghonto (250 g)",
     price: "₹ 139.00",
@@ -392,6 +403,7 @@ export const fullmenu = () => [
   },
   {
     id: 12,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mixed Bengali Vegetable (250 g)",
     price: "₹ 129.00",
@@ -400,6 +412,7 @@ export const fullmenu = () => [
   },
   {
     id: 13,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Paneer Curry (250 g)",
     price: "₹ 159.00",
@@ -408,6 +421,7 @@ export const fullmenu = () => [
   },
   {
     id: 14,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Rui Fish Curry (1 pc + 180 ml gravy)",
     price: "₹ 179.00",
@@ -416,6 +430,7 @@ export const fullmenu = () => [
   },
   {
     id: 15,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Rui Kalia (1 pc + 180 ml gravy)",
     price: "₹ 199.00",
@@ -424,6 +439,7 @@ export const fullmenu = () => [
   },
   {
     id: 16,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Doi Rui (1 pc + 180 ml gravy)",
     price: "₹ 199.00",
@@ -432,6 +448,7 @@ export const fullmenu = () => [
   },
   {
     id: 17,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mustard Rui (1 pc + 180 ml gravy)",
     price: "₹ 209.00",
@@ -440,6 +457,7 @@ export const fullmenu = () => [
   },
   {
     id: 18,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Katla Fish Curry (1 pc + 180 ml gravy)",
     price: "₹ 189.00",
@@ -448,6 +466,7 @@ export const fullmenu = () => [
   },
   {
     id: 19,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Katla Kalia (1 pc + 180 ml gravy)",
     price: "₹ 209.00",
@@ -456,6 +475,7 @@ export const fullmenu = () => [
   },
   {
     id: 20,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Pabda Jhal (1 pc + 180 ml gravy)",
     price: "₹ 229.00",
@@ -464,6 +484,7 @@ export const fullmenu = () => [
   },
   {
     id: 21,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Pabda Shorshe (1 pc + 180 ml gravy)",
     price: "₹ 239.00",
@@ -472,6 +493,7 @@ export const fullmenu = () => [
   },
   {
     id: 22,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Chingri Malai Curry (5 pcs + 200 ml gravy)",
     price: "₹ 299.00",
@@ -480,6 +502,7 @@ export const fullmenu = () => [
   },
   {
     id: 23,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Chingri Shorshe (5 pcs + 200 ml gravy)",
     price: "₹ 289.00",
@@ -488,6 +511,7 @@ export const fullmenu = () => [
   },
   {
     id: 24,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Chicken Jhol (4 pcs + 220 ml gravy)",
     price: "₹ 199.00",
@@ -496,6 +520,7 @@ export const fullmenu = () => [
   },
   {
     id: 25,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Chicken Kosha (4 pcs + 180 ml gravy)",
     price: "₹ 219.00",
@@ -504,6 +529,7 @@ export const fullmenu = () => [
   },
   {
     id: 26,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Chicken Dak Bungalow (4 pcs + 220 ml gravy)",
     price: "₹ 239.00",
@@ -512,6 +538,7 @@ export const fullmenu = () => [
   },
   {
     id: 27,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Doi Chicken Bengali Style (4 pcs + 200 ml gravy)",
     price: "₹ 229.00",
@@ -520,6 +547,7 @@ export const fullmenu = () => [
   },
   {
     id: 28,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Chicken Rezala (4 pcs + 200 ml gravy)",
     price: "₹ 239.00",
@@ -528,6 +556,7 @@ export const fullmenu = () => [
   },
   {
     id: 29,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mutton Kosha (4 pcs + 180 ml gravy)",
     price: "₹ 299.00",
@@ -536,6 +565,7 @@ export const fullmenu = () => [
   },
   {
     id: 30,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Mutton Jhol (4 pcs + 220 ml gravy)",
     price: "₹ 289.00",
@@ -544,6 +574,7 @@ export const fullmenu = () => [
   },
   {
     id: 31,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mutton Dak Bungalow (4 pcs + 220 ml gravy)",
     price: "₹ 319.00",
@@ -552,6 +583,7 @@ export const fullmenu = () => [
   },
   {
     id: 32,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mutton Rezala (4 pcs + 200 ml gravy)",
     price: "₹ 319.00",
@@ -560,6 +592,7 @@ export const fullmenu = () => [
   },
   {
     id: 33,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Basanti Pulao (300 g)",
     price: "₹ 149.00",
@@ -568,6 +601,7 @@ export const fullmenu = () => [
   },
   {
     id: 34,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Ghee Rice (300 g)",
     price: "₹ 129.00",
@@ -576,6 +610,7 @@ export const fullmenu = () => [
   },
   {
     id: 35,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Matar Pulao (300 g)",
     price: "₹ 139.00",
@@ -584,6 +619,7 @@ export const fullmenu = () => [
   },
   {
     id: 36,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bongo Veg Bengali Thali (1 thali)",
     price: "₹ 199.00",
@@ -592,6 +628,7 @@ export const fullmenu = () => [
   },
   {
     id: 37,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bongo Fish Thali (1 thali)",
     price: "₹ 249.00",
@@ -600,6 +637,7 @@ export const fullmenu = () => [
   },
   {
     id: 38,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bongo Chicken Thali (1 thali)",
     price: "₹ 279.00",
@@ -608,6 +646,7 @@ export const fullmenu = () => [
   },
   {
     id: 39,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bongo Special Bengali Thali (1 thali)",
     price: "₹ 399.00",
@@ -616,6 +655,7 @@ export const fullmenu = () => [
   },
   {
     id: 40,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bongo Mutton Thali (1 thali)",
     price: "₹ 349.00",
@@ -624,6 +664,7 @@ export const fullmenu = () => [
   },
   {
     id: 41,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Mishti Doi (150 g)",
     price: "₹ 69.00",
@@ -632,6 +673,7 @@ export const fullmenu = () => [
   },
   {
     id: 42,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Payesh (150 g)",
     price: "₹ 89.00",
@@ -640,6 +682,7 @@ export const fullmenu = () => [
   },
   {
     id: 43,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Nolen Gur Payesh (150 g)",
     price: "₹ 99.00",
@@ -648,6 +691,7 @@ export const fullmenu = () => [
   },
   {
     id: 44,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Rosogolla (2 pcs)",
     price: "₹ 69.00",
@@ -656,6 +700,7 @@ export const fullmenu = () => [
   },
   {
     id: 45,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Sandesh (2 pcs)",
     price: "₹ 89.00",
@@ -664,6 +709,7 @@ export const fullmenu = () => [
   },
   {
     id: 46,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Tomato Chutney (100 g)",
     price: "₹ 49.00",
@@ -672,6 +718,7 @@ export const fullmenu = () => [
   },
   {
     id: 47,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Papad (2 pcs)",
     price: "₹ 30.00",
@@ -680,6 +727,7 @@ export const fullmenu = () => [
   },
   {
     id: 48,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Green Salad (150 g)",
     price: "₹ 59.00",
@@ -688,6 +736,7 @@ export const fullmenu = () => [
   },
   {
     id: 49,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Cucumber Raita (180 g)",
     price: "₹ 69.00",
@@ -696,6 +745,7 @@ export const fullmenu = () => [
   },
   {
     id: 50,
+    category: "Bengali Specials",
     image: "/png/itemsimg.png",
     name: "Bengali Cucumber-Onion Salad (150 g)",
     price: "₹ 59.00",
@@ -704,6 +754,7 @@ export const fullmenu = () => [
   },
   {
     id: 51,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Veg Roll (1 pcs)",
     price: "₹79",
@@ -712,6 +763,7 @@ export const fullmenu = () => [
   },
   {
     id: 52,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Paneer Roll (1 pcs)",
     price: "₹109",
@@ -720,6 +772,7 @@ export const fullmenu = () => [
   },
   {
     id: 53,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Egg Paneer Roll (1 pcs)",
     price: "₹129",
@@ -728,6 +781,7 @@ export const fullmenu = () => [
   },
   {
     id: 54,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Egg Roll (1 pcs)",
     price: "₹69",
@@ -736,6 +790,7 @@ export const fullmenu = () => [
   },
   {
     id: 55,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Double Egg Roll (1 pcs)",
     price: "₹89",
@@ -744,6 +799,7 @@ export const fullmenu = () => [
   },
   {
     id: 56,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Egg Cheese Roll (1 pcs)",
     price: "₹109",
@@ -752,6 +808,7 @@ export const fullmenu = () => [
   },
   {
     id: 57,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chicken Roll (1 pcs)",
     price: "₹109",
@@ -760,6 +817,7 @@ export const fullmenu = () => [
   },
   {
     id: 58,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Double Chicken Roll (1 pcs)",
     price: "₹149",
@@ -768,6 +826,7 @@ export const fullmenu = () => [
   },
   {
     id: 59,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chicken Cheese Roll (1 pcs)",
     price: "₹139",
@@ -776,6 +835,7 @@ export const fullmenu = () => [
   },
   {
     id: 60,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chicken Mayo Roll (1 pcs)",
     price: "₹129",
@@ -784,6 +844,7 @@ export const fullmenu = () => [
   },
   {
     id: 61,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Butter Chicken Roll (1 pcs)",
     price: "₹139",
@@ -792,6 +853,7 @@ export const fullmenu = () => [
   },
   {
     id: 62,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Egg Chicken Roll (1 pcs)",
     price: "₹139",
@@ -799,6 +861,7 @@ export const fullmenu = () => [
     rating: "4.8",
   },
   {
+    category: "Khathi Roll",
     id: 63,
     image: "/png/itemsimg.png",
     name: "Double Egg Chicken Roll (1 pcs)",
@@ -808,6 +871,7 @@ export const fullmenu = () => [
   },
   {
     id: 64,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Double Egg Double Chicken Roll (1 pcs)",
     price: "₹199",
@@ -816,6 +880,7 @@ export const fullmenu = () => [
   },
   {
     id: 65,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chilli Chicken Roll (1 pcs)",
     price: "₹139",
@@ -824,6 +889,7 @@ export const fullmenu = () => [
   },
   {
     id: 66,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Schezwan Chicken Roll (1 pcs)",
     price: "₹139",
@@ -832,6 +898,7 @@ export const fullmenu = () => [
   },
   {
     id: 67,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chicken 65 Roll (1 pcs)",
     price: "₹149",
@@ -840,6 +907,7 @@ export const fullmenu = () => [
   },
   {
     id: 68,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Chicken Reshmi Roll (1 pcs)",
     price: "₹169",
@@ -848,6 +916,7 @@ export const fullmenu = () => [
   },
   {
     id: 69,
+    category: "Khathi Roll",
     image: "/png/itemsimg.png",
     name: "Bongo Special Chicken Roll (1 pcs)",
     price: "₹189",
@@ -856,6 +925,7 @@ export const fullmenu = () => [
   },
   {
     id: 70,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Veg Clear Soup",
     price: "₹119",
@@ -864,6 +934,7 @@ export const fullmenu = () => [
   },
   {
     id: 71,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Sweet Corn Veg Soup",
     price: "₹129",
@@ -872,6 +943,7 @@ export const fullmenu = () => [
   },
   {
     id: 72,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Hot & Sour Veg Soup",
     price: "₹139",
@@ -880,6 +952,7 @@ export const fullmenu = () => [
   },
   {
     id: 73,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Veg Manchow Soup",
     price: "₹149",
@@ -888,6 +961,7 @@ export const fullmenu = () => [
   },
   {
     id: 74,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Lemon Coriander Soup",
     price: "₹149",
@@ -896,6 +970,7 @@ export const fullmenu = () => [
   },
   {
     id: 75,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Chicken Clear Soup",
     price: "₹159",
@@ -904,6 +979,7 @@ export const fullmenu = () => [
   },
   {
     id: 76,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Sweet Corn Chicken Soup",
     price: "₹169",
@@ -912,6 +988,7 @@ export const fullmenu = () => [
   },
   {
     id: 77,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Hot & Sour Chicken Soup",
     price: "₹179",
@@ -920,6 +997,7 @@ export const fullmenu = () => [
   },
   {
     id: 78,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Chicken Manchow Soup",
     price: "₹189",
@@ -928,6 +1006,7 @@ export const fullmenu = () => [
   },
   {
     id: 79,
+    category: "Soups",
     image: "/png/itemsimg.png",
     name: "Wonton Soup",
     price: "₹199",
@@ -936,6 +1015,7 @@ export const fullmenu = () => [
   },
   {
     id: 80,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Chilli Paneer",
     price: "₹229",
@@ -944,6 +1024,7 @@ export const fullmenu = () => [
   },
   {
     id: 81,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Dry Chilli Paneer",
     price: "₹239",
@@ -952,6 +1033,7 @@ export const fullmenu = () => [
   },
   {
     id: 82,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Paneer 65",
     price: "₹249",
@@ -960,6 +1042,7 @@ export const fullmenu = () => [
   },
   {
     id: 83,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Dragon Paneer",
     price: "₹259",
@@ -968,6 +1051,7 @@ export const fullmenu = () => [
   },
   {
     id: 84,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Crispy Baby Corn",
     price: "₹269",
@@ -976,6 +1060,7 @@ export const fullmenu = () => [
   },
   {
     id: 85,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Honey Chilli Potato",
     price: "₹279",
@@ -984,6 +1069,7 @@ export const fullmenu = () => [
   },
   {
     id: 86,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Crispy Corn",
     price: "₹289",
@@ -992,6 +1078,7 @@ export const fullmenu = () => [
   },
   {
     id: 87,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Veg Manchurian Dry",
     price: "₹299",
@@ -1000,6 +1087,7 @@ export const fullmenu = () => [
   },
   {
     id: 88,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Veg Manchurian Gravy",
     price: "₹309",
@@ -1008,6 +1096,7 @@ export const fullmenu = () => [
   },
   {
     id: 89,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Chilli Mushroom",
     price: "₹319",
@@ -1016,6 +1105,7 @@ export const fullmenu = () => [
   },
   {
     id: 90,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Mushroom Pepper Fry",
     price: "₹329",
@@ -1024,6 +1114,7 @@ export const fullmenu = () => [
   },
   {
     id: 91,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Crispy Mushroom",
     price: "₹339",
@@ -1032,6 +1123,7 @@ export const fullmenu = () => [
   },
   {
     id: 92,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Chilli Broccoli",
     price: "₹349",
@@ -1040,6 +1132,7 @@ export const fullmenu = () => [
   },
   {
     id: 93,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Broccoli Pepper Garlic",
     price: "₹359",
@@ -1048,6 +1141,7 @@ export const fullmenu = () => [
   },
   {
     id: 94,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Veg Spring Roll",
     price: "₹369",
@@ -1056,6 +1150,7 @@ export const fullmenu = () => [
   },
   {
     id: 95,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Cheese Corn Balls",
     price: "₹379",
@@ -1064,6 +1159,7 @@ export const fullmenu = () => [
   },
   {
     id: 96,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Veg Salt & Pepper",
     price: "₹389",
@@ -1072,6 +1168,7 @@ export const fullmenu = () => [
   },
   {
     id: 97,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Veg Lollipop",
     price: "₹399",
@@ -1080,6 +1177,7 @@ export const fullmenu = () => [
   },
   {
     id: 98,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Schezwan Veg",
     price: "₹409",
@@ -1088,6 +1186,7 @@ export const fullmenu = () => [
   },
   {
     id: 99,
+    category: "Veg Starters",
     image: "/png/itemsimg.png",
     name: "Mixed Veg Hot Garlic",
     price: "₹419",
@@ -1096,6 +1195,7 @@ export const fullmenu = () => [
   },
   {
     id: 100,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Lollipop",
     price: "₹299",
@@ -1104,6 +1204,7 @@ export const fullmenu = () => [
   },
   {
     id: 101,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Wings",
     price: "₹309",
@@ -1112,6 +1213,7 @@ export const fullmenu = () => [
   },
   {
     id: 102,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Crispy Chicken",
     price: "₹319",
@@ -1120,6 +1222,7 @@ export const fullmenu = () => [
   },
   {
     id: 103,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken 65",
     price: "₹329",
@@ -1128,6 +1231,7 @@ export const fullmenu = () => [
   },
   {
     id: 104,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Dragon Chicken",
     price: "₹339",
@@ -1136,6 +1240,7 @@ export const fullmenu = () => [
   },
   {
     id: 105,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chilli Chicken Dry",
     price: "₹349",
@@ -1144,6 +1249,7 @@ export const fullmenu = () => [
   },
   {
     id: 106,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chilli Chicken Gravy",
     price: "₹359",
@@ -1152,6 +1258,7 @@ export const fullmenu = () => [
   },
   {
     id: 107,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Garlic Chicken",
     price: "₹369",
@@ -1160,6 +1267,7 @@ export const fullmenu = () => [
   },
   {
     id: 108,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Pepper Chicken",
     price: "₹379",
@@ -1168,6 +1276,7 @@ export const fullmenu = () => [
   },
   {
     id: 109,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Schezwan Chicken",
     price: "₹389",
@@ -1176,6 +1285,7 @@ export const fullmenu = () => [
   },
   {
     id: 110,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Honey Chilli Chicken",
     price: "₹399",
@@ -1184,6 +1294,7 @@ export const fullmenu = () => [
   },
   {
     id: 111,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Lemon Chicken",
     price: "₹409",
@@ -1192,6 +1303,7 @@ export const fullmenu = () => [
   },
   {
     id: 112,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Manchurian Dry",
     price: "₹419",
@@ -1200,6 +1312,7 @@ export const fullmenu = () => [
   },
   {
     id: 113,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Manchurian Gravy",
     price: "₹429",
@@ -1208,6 +1321,7 @@ export const fullmenu = () => [
   },
   {
     id: 114,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Pakoda",
     price: "₹439",
@@ -1216,6 +1330,7 @@ export const fullmenu = () => [
   },
   {
     id: 115,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Crispy Chicken Strips",
     price: "₹449",
@@ -1224,6 +1339,7 @@ export const fullmenu = () => [
   },
   {
     id: 116,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Popcorn",
     price: "₹459",
@@ -1232,6 +1348,7 @@ export const fullmenu = () => [
   },
   {
     id: 117,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Satay",
     price: "₹469",
@@ -1240,6 +1357,7 @@ export const fullmenu = () => [
   },
   {
     id: 118,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Kung Pao Chicken",
     price: "₹479",
@@ -1248,6 +1366,7 @@ export const fullmenu = () => [
   },
   {
     id: 119,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Black Pepper Chicken",
     price: "₹489",
@@ -1256,6 +1375,7 @@ export const fullmenu = () => [
   },
   {
     id: 120,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Hot Garlic Chicken",
     price: "₹499",
@@ -1264,6 +1384,7 @@ export const fullmenu = () => [
   },
   {
     id: 121,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Burnt Garlic Chicken",
     price: "₹509",
@@ -1272,6 +1393,7 @@ export const fullmenu = () => [
   },
   {
     id: 122,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Tikka Chinese",
     price: "₹519",
@@ -1280,6 +1402,7 @@ export const fullmenu = () => [
   },
   {
     id: 123,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Oriental Chicken",
     price: "₹529",
@@ -1288,6 +1411,7 @@ export const fullmenu = () => [
   },
   {
     id: 124,
+    category: "Chicken Starters",
     image: "/png/itemsimg.png",
     name: "Chicken Drumsticks",
     price: "₹539",
@@ -1296,6 +1420,7 @@ export const fullmenu = () => [
   },
   {
     id: 125,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Chilli Fish",
     price: "₹339",
@@ -1304,6 +1429,7 @@ export const fullmenu = () => [
   },
   {
     id: 126,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Fish Finger",
     price: "₹349",
@@ -1312,6 +1438,7 @@ export const fullmenu = () => [
   },
   {
     id: 127,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Crispy Fish",
     price: "₹359",
@@ -1320,6 +1447,7 @@ export const fullmenu = () => [
   },
   {
     id: 128,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Fish Manchurian",
     price: "₹369",
@@ -1328,6 +1456,7 @@ export const fullmenu = () => [
   },
   {
     id: 129,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Pepper Fish",
     price: "₹379",
@@ -1336,6 +1465,7 @@ export const fullmenu = () => [
   },
   {
     id: 130,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Garlic Fish",
     price: "₹389",
@@ -1344,6 +1474,7 @@ export const fullmenu = () => [
   },
   {
     id: 131,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Schezwan Fish",
     price: "₹399",
@@ -1352,6 +1483,7 @@ export const fullmenu = () => [
   },
   {
     id: 132,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Honey Chilli Fish",
     price: "₹409",
@@ -1360,6 +1492,7 @@ export const fullmenu = () => [
   },
   {
     id: 133,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Salt & Pepper Fish",
     price: "₹419",
@@ -1368,6 +1501,7 @@ export const fullmenu = () => [
   },
   {
     id: 134,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Chilli Prawns",
     price: "₹429",
@@ -1376,6 +1510,7 @@ export const fullmenu = () => [
   },
   {
     id: 135,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Garlic Prawns",
     price: "₹439",
@@ -1384,6 +1519,7 @@ export const fullmenu = () => [
   },
   {
     id: 136,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Pepper Prawns",
     price: "₹449",
@@ -1392,6 +1528,7 @@ export const fullmenu = () => [
   },
   {
     id: 137,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Crispy Prawns",
     price: "₹459",
@@ -1400,6 +1537,7 @@ export const fullmenu = () => [
   },
   {
     id: 138,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Dragon Prawns",
     price: "₹469",
@@ -1408,6 +1546,7 @@ export const fullmenu = () => [
   },
   {
     id: 139,
+    category: "Seafood",
     image: "/png/itemsimg.png",
     name: "Schezwan Prawns",
     price: "₹479",
@@ -1416,6 +1555,7 @@ export const fullmenu = () => [
   },
   {
     id: 140,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Veg Steamed",
     price: "₹149",
@@ -1424,6 +1564,7 @@ export const fullmenu = () => [
   },
   {
     id: 141,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Veg Fried",
     price: "₹159",
@@ -1432,6 +1573,7 @@ export const fullmenu = () => [
   },
   {
     id: 142,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Veg Kurkure",
     price: "₹169",
@@ -1440,6 +1582,7 @@ export const fullmenu = () => [
   },
   {
     id: 143,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Paneer Momos",
     price: "₹179",
@@ -1448,6 +1591,7 @@ export const fullmenu = () => [
   },
   {
     id: 144,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Cheese Momos",
     price: "₹189",
@@ -1456,6 +1600,7 @@ export const fullmenu = () => [
   },
   {
     id: 145,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Steamed",
     price: "₹199",
@@ -1464,6 +1609,7 @@ export const fullmenu = () => [
   },
   {
     id: 146,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Fried",
     price: "₹209",
@@ -1472,6 +1618,7 @@ export const fullmenu = () => [
   },
   {
     id: 147,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Kurkure",
     price: "₹219",
@@ -1480,6 +1627,7 @@ export const fullmenu = () => [
   },
   {
     id: 148,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Cheese Momos",
     price: "₹229",
@@ -1488,6 +1636,7 @@ export const fullmenu = () => [
   },
   {
     id: 149,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Tandoori Momos",
     price: "₹239",
@@ -1496,6 +1645,7 @@ export const fullmenu = () => [
   },
   {
     id: 150,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Afghani Momos",
     price: "₹249",
@@ -1504,6 +1654,7 @@ export const fullmenu = () => [
   },
   {
     id: 151,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chicken Peri Peri Momos",
     price: "₹259",
@@ -1512,6 +1663,7 @@ export const fullmenu = () => [
   },
   {
     id: 152,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Schezwan Momos",
     price: "₹269",
@@ -1520,6 +1672,7 @@ export const fullmenu = () => [
   },
   {
     id: 153,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Chilli Momos",
     price: "₹279",
@@ -1528,6 +1681,7 @@ export const fullmenu = () => [
   },
   {
     id: 154,
+    category: "Momos",
     image: "/png/itemsimg.png",
     name: "Jhol Momos",
     price: "₹289",
@@ -1536,6 +1690,7 @@ export const fullmenu = () => [
   },
   {
     id: 155,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Veg Hakka",
     price: "₹189",
@@ -1544,6 +1699,7 @@ export const fullmenu = () => [
   },
   {
     id: 156,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Egg Hakka",
     price: "₹199",
@@ -1552,6 +1708,7 @@ export const fullmenu = () => [
   },
   {
     id: 157,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Chicken Hakka",
     price: "₹209",
@@ -1560,6 +1717,7 @@ export const fullmenu = () => [
   },
   {
     id: 158,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Mixed Hakka",
     price: "₹219",
@@ -1568,6 +1726,7 @@ export const fullmenu = () => [
   },
   {
     id: 159,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Veg Schezwan",
     price: "₹229",
@@ -1576,6 +1735,7 @@ export const fullmenu = () => [
   },
   {
     id: 160,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Egg Schezwan",
     price: "₹239",
@@ -1584,6 +1744,7 @@ export const fullmenu = () => [
   },
   {
     id: 161,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Chicken Schezwan",
     price: "₹249",
@@ -1592,6 +1753,7 @@ export const fullmenu = () => [
   },
   {
     id: 162,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Mixed Schezwan",
     price: "₹259",
@@ -1600,6 +1762,7 @@ export const fullmenu = () => [
   },
   {
     id: 163,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Burnt Garlic",
     price: "₹269",
@@ -1608,6 +1771,7 @@ export const fullmenu = () => [
   },
   {
     id: 164,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Singapore",
     price: "₹279",
@@ -1616,6 +1780,7 @@ export const fullmenu = () => [
   },
   {
     id: 165,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "American Chopsuey",
     price: "₹289",
@@ -1624,6 +1789,7 @@ export const fullmenu = () => [
   },
   {
     id: 166,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Chinese Chopsuey",
     price: "₹299",
@@ -1632,6 +1798,7 @@ export const fullmenu = () => [
   },
   {
     id: 167,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Hong Kong",
     price: "₹309",
@@ -1640,6 +1807,7 @@ export const fullmenu = () => [
   },
   {
     id: 168,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Pan Fried",
     price: "₹319",
@@ -1648,6 +1816,7 @@ export const fullmenu = () => [
   },
   {
     id: 169,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Triple Schezwan",
     price: "₹329",
@@ -1656,6 +1825,7 @@ export const fullmenu = () => [
   },
   {
     id: 170,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Garlic",
     price: "₹339",
@@ -1664,6 +1834,7 @@ export const fullmenu = () => [
   },
   {
     id: 171,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Pepper",
     price: "₹349",
@@ -1672,6 +1843,7 @@ export const fullmenu = () => [
   },
   {
     id: 172,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Mushroom",
     price: "₹359",
@@ -1680,6 +1852,7 @@ export const fullmenu = () => [
   },
   {
     id: 173,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Seafood",
     price: "₹369",
@@ -1688,6 +1861,7 @@ export const fullmenu = () => [
   },
   {
     id: 174,
+    category: "Noodles",
     image: "/png/itemsimg.png",
     name: "Chicken Keema",
     price: "₹379",
@@ -1696,6 +1870,7 @@ export const fullmenu = () => [
   },
   {
     id: 175,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Veg Fried Rice",
     price: "₹189",
@@ -1704,6 +1879,7 @@ export const fullmenu = () => [
   },
   {
     id: 176,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Egg Fried Rice",
     price: "₹199",
@@ -1712,6 +1888,7 @@ export const fullmenu = () => [
   },
   {
     id: 177,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Chicken Fried Rice",
     price: "₹209",
@@ -1720,6 +1897,7 @@ export const fullmenu = () => [
   },
   {
     id: 178,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Mixed Fried Rice",
     price: "₹219",
@@ -1728,6 +1906,7 @@ export const fullmenu = () => [
   },
   {
     id: 179,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Veg Schezwan Fried Rice",
     price: "₹229",
@@ -1736,6 +1915,7 @@ export const fullmenu = () => [
   },
   {
     id: 180,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Chicken Schezwan Fried Rice",
     price: "₹239",
@@ -1744,6 +1924,7 @@ export const fullmenu = () => [
   },
   {
     id: 181,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Burnt Garlic Fried Rice",
     price: "₹249",
@@ -1752,6 +1933,7 @@ export const fullmenu = () => [
   },
   {
     id: 182,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Mushroom Fried Rice",
     price: "₹259",
@@ -1760,6 +1942,7 @@ export const fullmenu = () => [
   },
   {
     id: 183,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Paneer Fried Rice",
     price: "₹269",
@@ -1768,6 +1951,7 @@ export const fullmenu = () => [
   },
   {
     id: 184,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Triple Schezwan Rice",
     price: "₹279",
@@ -1776,6 +1960,7 @@ export const fullmenu = () => [
   },
   {
     id: 185,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Hong Kong Fried Rice",
     price: "₹289",
@@ -1784,6 +1969,7 @@ export const fullmenu = () => [
   },
   {
     id: 186,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Seafood Fried Rice",
     price: "₹299",
@@ -1792,6 +1978,7 @@ export const fullmenu = () => [
   },
   {
     id: 187,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Garlic Fried Rice",
     price: "₹309",
@@ -1800,6 +1987,7 @@ export const fullmenu = () => [
   },
   {
     id: 188,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Pepper Fried Rice",
     price: "₹319",
@@ -1808,6 +1996,7 @@ export const fullmenu = () => [
   },
   {
     id: 189,
+    category: "Fried Rice",
     image: "/png/itemsimg.png",
     name: "Oriental Fried Rice",
     price: "₹329",
@@ -1816,6 +2005,7 @@ export const fullmenu = () => [
   },
   {
     id: 190,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Veg Manchurian with Rice",
     price: "₹249",
@@ -1824,6 +2014,7 @@ export const fullmenu = () => [
   },
   {
     id: 191,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Chilli Paneer with Rice",
     price: "₹269",
@@ -1832,6 +2023,7 @@ export const fullmenu = () => [
   },
   {
     id: 192,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Chilli Chicken with Rice",
     price: "₹289",
@@ -1840,6 +2032,7 @@ export const fullmenu = () => [
   },
   {
     id: 193,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Garlic Chicken with Rice",
     price: "₹309",
@@ -1848,6 +2041,7 @@ export const fullmenu = () => [
   },
   {
     id: 194,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Chicken Manchurian with Rice",
     price: "₹329",
@@ -1856,6 +2050,7 @@ export const fullmenu = () => [
   },
   {
     id: 195,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Chilli Fish with Rice",
     price: "₹349",
@@ -1864,6 +2059,7 @@ export const fullmenu = () => [
   },
   {
     id: 196,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Garlic Fish with Rice",
     price: "₹369",
@@ -1872,6 +2068,7 @@ export const fullmenu = () => [
   },
   {
     id: 197,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Mixed Veg Hot Garlic with Rice",
     price: "₹389",
@@ -1880,6 +2077,7 @@ export const fullmenu = () => [
   },
   {
     id: 198,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Kung Pao Chicken with Rice",
     price: "₹409",
@@ -1888,6 +2086,7 @@ export const fullmenu = () => [
   },
   {
     id: 199,
+    category: "Rice & Gravy",
     image: "/png/itemsimg.png",
     name: "Oriental Chicken with Rice",
     price: "₹429",
@@ -1896,6 +2095,7 @@ export const fullmenu = () => [
   },
   {
     id: 200,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Veg Noodles+Chilli Paneer",
     price: "₹339",
@@ -1904,6 +2104,7 @@ export const fullmenu = () => [
   },
   {
     id: 201,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Egg Noodles+Chilli Chicken",
     price: "₹379",
@@ -1912,6 +2113,7 @@ export const fullmenu = () => [
   },
   {
     id: 202,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Chicken Fried Rice+Chicken Manchurian",
     price: "₹419",
@@ -1920,6 +2122,7 @@ export const fullmenu = () => [
   },
   {
     id: 203,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Schezwan Rice+Dragon Chicken",
     price: "₹459",
@@ -1928,6 +2131,7 @@ export const fullmenu = () => [
   },
   {
     id: 204,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Veg Fried Rice+Veg Manchurian",
     price: "₹339",
@@ -1936,6 +2140,7 @@ export const fullmenu = () => [
   },
   {
     id: 205,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Chicken Noodles+Chicken Wings",
     price: "₹399",
@@ -1944,6 +2149,7 @@ export const fullmenu = () => [
   },
   {
     id: 206,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Triple Rice+Chilli Chicken",
     price: "₹439",
@@ -1952,6 +2158,7 @@ export const fullmenu = () => [
   },
   {
     id: 207,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Fish Fried Rice Combo",
     price: "₹469",
@@ -1960,6 +2167,7 @@ export const fullmenu = () => [
   },
   {
     id: 208,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Momos+Soft Drink",
     price: "₹249",
@@ -1968,6 +2176,7 @@ export const fullmenu = () => [
   },
   {
     id: 209,
+    category: "Combos",
     image: "/png/itemsimg.png",
     name: "Family Combo",
     price: "₹899",
@@ -1976,6 +2185,7 @@ export const fullmenu = () => [
   },
   {
     id: 210,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Bongo Special Chilli Chicken",
     price: "₹349",
@@ -1984,6 +2194,7 @@ export const fullmenu = () => [
   },
   {
     id: 211,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Bongo Dragon Chicken",
     price: "₹359",
@@ -1992,6 +2203,7 @@ export const fullmenu = () => [
   },
   {
     id: 212,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Bongo Mixed Sizzler",
     price: "₹499",
@@ -2000,6 +2212,7 @@ export const fullmenu = () => [
   },
   {
     id: 213,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Chef Special Noodles",
     price: "₹329",
@@ -2008,6 +2221,7 @@ export const fullmenu = () => [
   },
   {
     id: 214,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Chef Special Fried Rice",
     price: "₹329",
@@ -2016,6 +2230,7 @@ export const fullmenu = () => [
   },
   {
     id: 215,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Crispy Chicken Platter",
     price: "₹599",
@@ -2024,6 +2239,7 @@ export const fullmenu = () => [
   },
   {
     id: 216,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Seafood Deluxe Combo",
     price: "₹699",
@@ -2032,6 +2248,7 @@ export const fullmenu = () => [
   },
   {
     id: 217,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Chicken & Prawn Mix",
     price: "₹549",
@@ -2040,6 +2257,7 @@ export const fullmenu = () => [
   },
   {
     id: 218,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Ultimate Chinese Feast",
     price: "₹799",
@@ -2048,6 +2266,7 @@ export const fullmenu = () => [
   },
   {
     id: 219,
+    category: "Signature",
     image: "/png/itemsimg.png",
     name: "Party Pack",
     price: "₹999",
