@@ -33,7 +33,7 @@ function Navbar() {
                 </li>
               ))}
             </ul>
-            <div >
+            <div>
               <Link href="/#our-special-menu">
                 <Button
                   btn={"Order Now"}
