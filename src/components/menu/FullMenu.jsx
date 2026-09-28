@@ -69,7 +69,7 @@ function FullMenu() {
           </div>
           <div>
             <input
-              className="border-2 border-amber-400  rounded-2xl px-5 py-2"
+              className="border-2 border-amber-400 rounded-2xl px-5 py-2  focus:outline-none"
               type="search"
               name=""
               value={search}
